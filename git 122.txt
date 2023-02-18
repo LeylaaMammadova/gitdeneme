@@ -2,4 +2,4 @@ git
 github
 eklemeeeeeeeeeeeeee
 leyla add
-add edildi 
+add edildi //onemli kod 
